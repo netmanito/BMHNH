@@ -177,7 +177,7 @@ CLI_TIMEOUT=10
 #default for delay
 CLI_DELAY=3
 # channel name defaults to "mychannel"
-CHANNEL_NAME="mychannel"
+CHANNEL_NAME="testnet"
 
 EXPMODE="Generating certs and genesis block for"
 
