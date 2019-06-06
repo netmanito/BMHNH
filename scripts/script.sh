@@ -11,7 +11,7 @@ echo "Build multi host network (BMHN) end-to-end test"
 echo
 CHANNEL_NAME="$1"
 DELAY="$2"
-: ${CHANNEL_NAME:="mychannel"}
+: ${CHANNEL_NAME:="testnet"}
 : ${TIMEOUT:="60"}
 COUNTER=1
 MAX_RETRY=5
